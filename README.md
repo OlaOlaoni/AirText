@@ -6,3 +6,9 @@ The goal of AirText is to infer the texts written by the fingertip in the air, u
 
 Users can shake their phone to indicate a backspace.
 
+# Project RoadMap
+
+* Collect numeric IMU data -> 1..9
+* Collect alphabet IMU data -> a-z
+* Train ML model from IMU data
+* Develop mobile(android) app
